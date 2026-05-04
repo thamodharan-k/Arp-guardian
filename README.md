@@ -121,5 +121,4 @@ Rich	CLI terminal output
 This project is licensed under the MIT License — feel free to use, modify, and distribute.
 
 🙌 Author
-Made with ❤️ for network security education.
-If this helped you, give it a ⭐ on GitHub!
+THAMODHARAN K
